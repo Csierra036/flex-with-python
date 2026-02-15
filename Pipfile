@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+ply = "==3.11"
+pip = "==25.3"
+setuptools = "==80.9.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
