@@ -47,9 +47,6 @@ pipenv shell
 
 ## 💻 Ejecución del Proyecto
 
-
-Este script procesa archivos de configuración de iptables.
-
 ```bash
 python main.py
 
